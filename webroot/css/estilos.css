@@ -1,0 +1,50 @@
+header{
+    background-color: #1D252F;
+    color: #72DA38;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background-color: black;
+    color: rgb(177, 176, 176);
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer a{
+    text-decoration: none;
+    color: rgb(177, 176, 176);
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:active{
+    text-decoration: none;
+    color: black;
+}
+footer a:hover{
+    color: white;
+}
+main{
+    text-align: center  ;
+}
+body{
+   background-color: #F2F4F6;
+}
+article{
+    margin-top: 20px;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+i{
+    padding-left: 10px;
+    padding-right: 10px;
+}
